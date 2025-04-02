@@ -23,19 +23,21 @@ layout: default
 </ul>
 
 <table>
-<tr><h4>Places that I visit<h4>
-<th>State</th>
-<th>City</th>
-<th>When</th>
-</tr>
 
-<tr>
-<td>California</td>
-<td>Los Angeles</td>
-<td>Summer</td>
-</tr>
+  <tr>
+   <h4>Places that I visit<h4>
+   <th>State</th>
+   <th>City</th>
+   <th>When</th>
+  </tr>
 
-<tr>
+  <tr>
+    <td>California</td>
+    <td>Los Angeles</td>
+    <td>Summer</td>
+  </tr>
+
+  <tr>
     <td> Illinois</td>
     <td>Chicago</td>
     <td>Fall</td>
