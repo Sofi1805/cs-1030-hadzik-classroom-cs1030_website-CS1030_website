@@ -11,7 +11,7 @@ layout: default
 
 
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.md).
 
 <a href="https://sofi1805.github.io/cs-1030-hadzik-classroom-cs1030_website-CS1030_website/">Visit my website!</a>
 
