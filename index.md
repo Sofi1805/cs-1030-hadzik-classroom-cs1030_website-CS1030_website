@@ -13,7 +13,7 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-<a href="https://cs-1030-hadzik.github.io/cs1030-website-amydiaz1/">Visit my website!</a>
+<a href="https://sofi1805.github.io/cs-1030-hadzik-classroom-cs1030_website-CS1030_website/">Visit my website!</a>
 
 <ul> 
 <h4> Hobbies </h4>
@@ -30,9 +30,9 @@ layout: default
 </tr>
 
 <tr>
-<th>California</th>
-<th>Los Angeles</th>
-<th>Summer</th>
+<td>California</td>
+<td>Los Angeles</td>
+<td>Summer</td>
 </tr>
 
 <tr>
