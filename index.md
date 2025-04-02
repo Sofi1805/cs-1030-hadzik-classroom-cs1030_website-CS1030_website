@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>Sofia Franco</h1>
-<p>Hi everbody! My name is Sofia Franco, I am from Quito,Ecuador and this is my second semester at weber state University. My mayor is cibersecurity.I enjoy learning and having a little bit more of comprehesion of what my mayor is about. My parents have been working on cibersecurity for a long time so I will be the second generation working on this type of mayor.</p>
+<p>Hi everbody! My name is Sofia Franco. I am from Quito,Ecuador and this is my second semester at Weber state University. My major is cybersecurity.I enjoy learning and having a little bit more of comprehesion of what my major is about. My parents have been working on cybersecurity for a long time so I will be the second generation working on this type of major.</p>
 
  ![2003][def]
 
@@ -16,14 +16,14 @@ layout: default
 <a href="https://cs-1030-hadzik.github.io/cs1030-website-amydiaz1/">Visit my website!</a>
 
 <ul> 
-<h4> Hobbits </h4>
+<h4> Hobbies </h4>
 <li>Snowboarding</li>
 <li>Watch movies</li>
 <li>Basketball</li>
 </ul>
 
 <table>
-<tr>Places that I visit<h4>
+<tr><h4>Places that I visit<h4>
 <th>State</th>
 <th>City<th>
 <th>When</th>
@@ -40,7 +40,7 @@ layout: default
     <td>Chigago</td>
     <td>Fall</td>
   </tr>
-  
+
 </table>
 
 
