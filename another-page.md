@@ -10,8 +10,6 @@ layout: default
 ![fun.png](assets/img/fun.jpg)
 
 
-_yay_
-
 
 [back][def]
 
